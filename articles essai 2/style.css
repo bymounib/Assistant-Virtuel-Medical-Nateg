@@ -1,0 +1,23 @@
+	body{
+		background-color: #e0e0e0;
+	}
+	.row{
+		padding-top: 50px;
+	}
+	.card-img-top{
+		height: 200px;
+		width: auto;
+	}
+	.category{
+		font-weight: bold;
+		color: white;
+		background-color: #43ba3f;
+		width:70px;
+		border-radius: 20px;
+		text-align: center;
+		font-size: 12px;
+	}
+	.btn{
+		font-size: 13px;
+		padding: 3px 10px;
+	}
